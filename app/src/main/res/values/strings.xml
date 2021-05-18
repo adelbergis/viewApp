@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">viewApp</string>
+    <string name="question_text">Лиса съела колобка?</string>
+    <string name="question_text1">Земля квадратная?</string>
+    <string name="question_text2">Булгаков был охранником?</string>
+    <string name="question_text3">6 + 2 = 4</string>
+    <string name="question_text4">3 + 1 = 4</string>
+    <string name="correct">Да</string>
+    <string name="incorrect">Нет</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Неверно!</string>
+    <string name="get_answer">Получить ответ</string>
+</resources>
